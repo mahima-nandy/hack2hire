@@ -241,6 +241,8 @@ Update `CORS_ALLOWED_ORIGINS`, `DJANGO_ALLOWED_HOSTS`, `VITE_API_BASE_URL`, and 
 
 
 <img width="1508" height="731" alt="Screenshot 2026-06-01 at 5 50 16 PM" src="https://github.com/user-attachments/assets/79bf5489-e766-4ff7-925c-ab1f3962a5a5" />
+<img width="1508" height="518" alt="Screenshot 2026-06-01 at 5 50 58 PM" src="https://github.com/user-attachments/assets/0ded865a-07e4-443a-a750-614dd20c8b6d" />
+
 <img width="406" height="205" alt="Screenshot 2026-06-01 at 5 51 42 PM" src="https://github.com/user-attachments/assets/e3fce2ff-aa32-4f2f-bc3e-8c47b4f6ce30" /><img width="1096" height="601" alt="Screenshot 2026-06-01 at 5 51 56 PM" src="https://github.com/user-attachments/assets/ab8e3551-eea0-4c5c-81bf-ca520fd03dc7" />
 <img width="1508" height="558" alt="Screenshot 2026-06-01 at 6 09 58 PM" src="https://github.com/user-attachments/assets/71a464ad-ad6f-49dc-98f7-0977ce3e08d0" />
 
