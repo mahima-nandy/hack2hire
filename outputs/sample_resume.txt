@@ -1,0 +1,16 @@
+Aarav Sharma
+Backend Engineer
+
+Skills
+Python, Django, REST, PostgreSQL, Docker, React, TypeScript, WebSocket, Testing, OpenAI
+
+Experience
+- Built Django REST APIs for a hiring analytics platform with PostgreSQL and Docker.
+- Implemented WebSocket notifications and JWT authentication for production workflows.
+
+Projects
+- AI mock interview assistant using resume parsing, adaptive question generation, and scoring.
+- Candidate dashboard with React, TypeScript, charts, and role-based access.
+
+Education
+B.Tech Computer Science, National Institute of Technology

@@ -1,0 +1,13 @@
+Senior Full Stack Engineer
+
+We need a full-stack engineer with Python, Django, Django REST Framework, PostgreSQL, Docker,
+React, TypeScript, WebSocket experience, testing discipline, and practical AI integration.
+
+Responsibilities
+- Build secure authenticated REST APIs.
+- Implement analytics dashboards and interview workflows.
+- Integrate speech-to-text, text-to-speech, and LLM-based evaluation.
+- Ship a Dockerized production-style demo.
+
+Experience Level
+Senior
