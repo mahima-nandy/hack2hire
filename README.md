@@ -235,6 +235,9 @@ Update `CORS_ALLOWED_ORIGINS`, `DJANGO_ALLOWED_HOSTS`, `VITE_API_BASE_URL`, and 
 - Video interview analysis.
 - Background task queue for long AI jobs.
 
+# ScreenShots from the working website
+
+
 <img width="1509" height="738" alt="Screenshot 2026-06-01 at 5 49 48 PM" src="https://github.com/user-attachments/assets/a53e8298-5ca6-4a98-8da3-091e4a7a1166" />
 <img width="1512" height="740" alt="Screenshot 2026-06-01 at 5 50 03 PM" src="https://github.com/user-attachments/assets/98d1c987-7119-4855-b320-dabcecda9ac3" />
 
@@ -245,4 +248,12 @@ Update `CORS_ALLOWED_ORIGINS`, `DJANGO_ALLOWED_HOSTS`, `VITE_API_BASE_URL`, and 
 
 <img width="406" height="205" alt="Screenshot 2026-06-01 at 5 51 42 PM" src="https://github.com/user-attachments/assets/e3fce2ff-aa32-4f2f-bc3e-8c47b4f6ce30" /><img width="1096" height="601" alt="Screenshot 2026-06-01 at 5 51 56 PM" src="https://github.com/user-attachments/assets/ab8e3551-eea0-4c5c-81bf-ca520fd03dc7" />
 <img width="1508" height="558" alt="Screenshot 2026-06-01 at 6 09 58 PM" src="https://github.com/user-attachments/assets/71a464ad-ad6f-49dc-98f7-0977ce3e08d0" />
+
+
+# Videolink (google drive) of the working website
+
+https://drive.google.com/file/d/1pYnhgcj6kTse8KYIxwElszshqroNqjo0/view?usp=drive_link
+
+
+
 
