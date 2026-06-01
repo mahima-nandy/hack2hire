@@ -9,14 +9,9 @@ Seeded by `python manage.py seed_demo`:
 - Candidate: `demo` / `DemoPass123!`
 - Admin: `admin` / `AdminPass123!`
 
-## Screenshots
+## Demo Media
 
-![Landing](outputs/screenshot-landing.png)
-![Dashboard](outputs/screenshot-dashboard.png)
-![Interview Room](outputs/screenshot-interview-room.png)
-![Report](outputs/screenshot-report.png)
-![Analytics](outputs/screenshot-analytics.png)
-![Admin](outputs/screenshot-admin.png)
+Use the screen recording video for the hackathon walkthrough. Sample resume and job description files are included in `outputs/`.
 
 ## Features
 
